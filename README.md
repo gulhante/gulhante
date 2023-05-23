@@ -6,12 +6,12 @@ Hi there, I'm Gülhan 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gulhante) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Gulhante) 
 
 
-## 🔭 I’m currently working on
+### 🔭 I’m currently working on
 
 - My Java skills
 
 
-## 🌱 I'm currently learning
+### 🌱 I'm currently learning
 
 - Selenium
 - Jira
@@ -20,7 +20,7 @@ Hi there, I'm Gülhan 👋
 - Appium
 
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
