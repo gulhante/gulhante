@@ -8,7 +8,8 @@ Hi there, I'm Gülhan 👋
 
 ### 🔭 I’m currently working on
 
-- My Java skills
+- My Java & Lambda skills
+- My HTML-CSS skills
 
 
 ### 🌱 I'm currently learning
