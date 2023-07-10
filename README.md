@@ -36,7 +36,6 @@ Hi there, I'm Gülhan 👋
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<img src="https://www.bitoo.fr/wp-content/uploads/2020/04/selenium_logo.png" alt="Top 5 des outils d'automatisation de test en 2020 | Bitoo" class=" nofocus" tabindex="0" aria-label="Top 5 des outils d'automatisation de test en 2020 | Bitoo" role="button" style="position: absolute; height: 100%; width: 100%; inset: 0px; margin: auto;">
 
 
 ---
