@@ -11,11 +11,11 @@ Hi there, I'm Gülhan 👋
 - My Java & Lambda skills
 - My HTML-CSS skills
 - My Jira skills
+- My Selenium (jUnit, TestNg, Cucumber, Fluent, Reports) skills
 
 
 ### 🌱 I'm currently learning
 
-- Selenium
 - AWS
 - Jenkins
 - Appium
