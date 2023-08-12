@@ -12,6 +12,7 @@ Hi there, I'm Gülhan 👋
 - My HTML-CSS skills
 - My Jira skills
 - My Selenium (jUnit, TestNg, Cucumber, Fluent, Reports) skills
+- My Selenium Grid skills
 
 
 ### 🌱 I'm currently learning
