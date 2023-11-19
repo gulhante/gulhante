@@ -19,7 +19,7 @@ Hi there, I'm Gülhan 👋
 
 - AWS Cloud
 - Appium
-- 
+  
 
 ### 💻 Tech Stack:
 
