@@ -25,8 +25,6 @@ Hi there, I'm Gülhan 👋
 
 - Java · Lambda · Python · HTML · CSS · VSCode · Selenium WebDriver · Selenium Grid · Selenium IDE · JUnit · TestNG · Log4j · Cucumber · Fluent/POM · Reports(HTML - Allure - Spark) · Maven · Cypress · Git · GitHub · Jira  · Jenkins with AWS · MySQL · JDBC · Rest Assured API · Postman · Windows · Adobe Photoshop · Adobe InDesign · Microsoft Office · Projektmanagement · Adobe Illustrator · CorelDRAW · Adobe InDesign
   
-- Algorithmen · Softwarequalität · Support von IT-Hardware · Webentwicklung · Softwareentwicklung · Computer-Hardware · Webdesign · Computer Science · Informatik
-
 <!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
