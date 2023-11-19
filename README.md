@@ -8,28 +8,22 @@ Hi there, I'm Gülhan 👋
 
 ### 🔭 I’m currently working on
 
-- My Java & Lambda skills
-- My HTML-CSS skills
 - My Jira skills
 - My Selenium (jUnit, TestNg, Cucumber, Fluent, Reports) skills
-- My Selenium Grid skills
 - My Jenkins with AWS skills
-- My MySQL skills
 - My JDBC skills
+- REST Assured API skills
 
 
 ### 🌱 I'm currently learning
 
 - AWS Cloud
 - Appium
-- REST Assured API
-- Postman
-
-
+- 
 
 ### 💻 Tech Stack:
 
-- Java · Lambda · HTML · CSS · VSCode · Selenium WebDriver · Selenium Grid · Selenium Grid · JUnit · TestNG/BDD/POM · Log4j · Cucumber/DDT · Fluent/POM · Reports(HTML - Allure - Spark) · Maven · Git · GitHub · Jira  · Jenkins with AWS · MySQL · JDBC · Windows · Adobe Photoshop · Adobe InDesign · Microsoft Office · Projektmanagement · Adobe Illustrator · CorelDRAW · Adobe InDesign
+- Java · Lambda · Python · HTML · CSS · VSCode · Selenium WebDriver · Selenium Grid · Selenium IDE · JUnit · TestNG · Log4j · Cucumber · Fluent/POM · Reports(HTML - Allure - Spark) · Maven · Cypress · Git · GitHub · Jira  · Jenkins with AWS · MySQL · JDBC · Rest Assured API · Postman · Windows · Adobe Photoshop · Adobe InDesign · Microsoft Office · Projektmanagement · Adobe Illustrator · CorelDRAW · Adobe InDesign
   
 - Algorithmen · Softwarequalität · Support von IT-Hardware · Webentwicklung · Softwareentwicklung · Computer-Hardware · Webdesign · Computer Science · Informatik
 
