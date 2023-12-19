@@ -8,22 +8,17 @@ Hi there, I'm Gülhan 👋
 
 ### 🔭 I’m currently working on
 
-- My Jira skills
-- My Selenium (jUnit, TestNg, Cucumber, Fluent, Reports) skills
-- My Jenkins with AWS skills
-- My JDBC skills
-- REST Assured API skills
+- My Appium skills
 
 
 ### 🌱 I'm currently learning
 
 - AWS Cloud
-- Appium
   
 
 ### 💻 Tech Stack:
 
-- Java · Lambda · Python · HTML · CSS · VSCode · Selenium WebDriver · Selenium Grid · Selenium IDE · JUnit · TestNG · Log4j · Cucumber · Fluent/POM · Reports(HTML - Allure - Spark) · Maven · Cypress · Git · GitHub · Jira  · Jenkins with AWS · MySQL · JDBC · Rest Assured API · Postman · Windows · Adobe Photoshop · Adobe InDesign · Microsoft Office · Projektmanagement · Adobe Illustrator · CorelDRAW · Adobe InDesign
+- Java · Lambda · Python · HTML · CSS · VSCode · Selenium WebDriver · Selenium Grid · Selenium IDE · JUnit · TestNG · Log4j · Cucumber · Fluent/POM · Reports(HTML - Allure - Spark) · Maven · Cypress · Git · GitHub · Jira  · Jenkins with AWS · MySQL · JDBC · Rest Assured API · Postman · Appium · Windows · Adobe Photoshop · Adobe InDesign · Microsoft Office · Projektmanagement · Adobe Illustrator · CorelDRAW · Adobe InDesign
   
 <!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
